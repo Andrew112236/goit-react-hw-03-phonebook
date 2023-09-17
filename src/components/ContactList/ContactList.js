@@ -11,7 +11,7 @@ export default function ContactList({ contacts, handleDeleteContact }) {
             className={styles.button}
             onClick={() => handleDeleteContact(contact.id)}
           >
-            Delete &#x1F610;
+            Delete
           </button>
         </li>
       ))}

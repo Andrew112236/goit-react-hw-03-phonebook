@@ -1,13 +1,14 @@
 .form {
   display: flex;
   flex-direction: column;
-  margin-left: 20px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
 }
 
 .title {
   display: flex;
   font-size: 40px;
-  color: blue;
 }
 
 .label {
@@ -25,8 +26,8 @@
   margin-top: 20px;
   padding: 10px;
   color: white;
-  background-color: green;
-  border-color: green;
+  background-color: #3458eb;
+  border-color: #3458eb;
   border-radius: 5px;
-  font-size: 20px;
+  font-size: 23px;
 }

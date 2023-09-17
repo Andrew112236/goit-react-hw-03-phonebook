@@ -44,7 +44,7 @@ function ContactForm({ onSubmit }) {
         />
       </label>
       <button className={styles.button} type="submit">
-        Add Contact &#128512;
+        Add Contact
       </button>
     </form>
   );
